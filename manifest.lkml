@@ -1,15 +1,15 @@
 constant: CONNECTION_NAME {
-  value: "thorsten"
+  value: "sap-sales-orders"
   export: override_required
 }
 
 constant: GCP_PROJECT {
-  value: "thorstenstaerk-cortex4"
+  value: "syntio-cortex-enbl-dev"
   export: override_required
 }
 
 constant: REPORTING_DATASET {
-  value: "SAP_REPORTING"
+  value: "looker_sales_orders"
   export: override_required
 }
 
