@@ -9,7 +9,7 @@ constant: GCP_PROJECT {
 }
 
 constant: REPORTING_DATASET {
-  value: "looker_sales_orders"
+  value: "SO_REPORTING"
   export: override_required
 }
 
